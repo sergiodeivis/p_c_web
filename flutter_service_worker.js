@@ -25,7 +25,7 @@ const RESOURCES = {
 "assets/assets/images/Watermelon-Gummy-Label-label-mockup-1.jpg": "a6b3b84c7d8d5452e81d3be3178188c7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "1c1af7a96477dd23b121bf6b33c55714",
+"assets/NOTICES": "34634984ce8efe0b147da1c8d818f34d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -37,10 +37,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "07cde3ea0603ca85bf1167c783aa74c7",
-"/": "07cde3ea0603ca85bf1167c783aa74c7",
-"index.html.bak": "c282b531d28c1605eb188451fa821b25",
-"main.dart.js": "b37c48c1c2f01666e1ff6968b8816940",
+"index.html": "88375e4cd1ef831b00f2ed964e18d463",
+"/": "88375e4cd1ef831b00f2ed964e18d463",
+"index.html.bak": "07cde3ea0603ca85bf1167c783aa74c7",
+"main.dart.js": "9d1b497fc1369beb145735e5310bb344",
 "manifest.json": "e640841e768177b4639d23ba8eb59f97",
 "version.json": "4edc33868f4b57f332e264f1a9051d8c"
 };
