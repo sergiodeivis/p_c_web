@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c81294825eed3b0cf76e0df4a10adb6e",
+  "assets/AssetManifest.json": "8e43a255f0add2d5e1bf7bc9dcacbb3f",
 "assets/assets/images/cbd-full-spectrum-tincture-10000mg.jpg": "d3cc736dcf44a1190cace6b89e140861",
 "assets/assets/images/cbd-natural-tintcture-3000mg.jpg": "20f79f1816cedbc434e0b77b3e8239a3",
 "assets/assets/images/cbd-pain-cream-menthol.jpg": "7621d4ee1f3ac8a619f8a4d1156b8c8d",
@@ -23,9 +23,11 @@ const RESOURCES = {
 "assets/assets/images/strawberry-gummies-out.jpg": "cea28b2d5b184c0060fad23b4711b488",
 "assets/assets/images/tinctures-file-attrum.png": "2bd4918d6603db937203ae31682085e9",
 "assets/assets/images/Watermelon-Gummy-Label-label-mockup-1.jpg": "a6b3b84c7d8d5452e81d3be3178188c7",
+"assets/assets/test/comprovante.jpg": "cb923ae2f8fb83eb951f652ac7f42eb2",
+"assets/assets/test/receita.jpg": "1907f031ba861b2181337fae8adc053a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "34634984ce8efe0b147da1c8d818f34d",
+"assets/NOTICES": "17fdbbc104c7f1021bf40da2b757ecb3",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -37,9 +39,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2dc79e0799f927a15f529d962656ca60",
-"/": "2dc79e0799f927a15f529d962656ca60",
-"main.dart.js": "d0b682911c9cbcdb307716b72180b41c",
+"index.html": "6432f96dd9eee56ad86a2e91e9a4fceb",
+"/": "6432f96dd9eee56ad86a2e91e9a4fceb",
+"index.html.bak": "2dc79e0799f927a15f529d962656ca60",
+"main.dart.js": "e1b5e6b7dd132c021717b83fd5362916",
 "manifest.json": "e640841e768177b4639d23ba8eb59f97",
 "version.json": "4edc33868f4b57f332e264f1a9051d8c"
 };
