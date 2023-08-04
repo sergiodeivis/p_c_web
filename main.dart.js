@@ -48991,7 +48991,7 @@ l=A.bI(u.g,0,null)
 k=t.N
 j=A.a5(["Content-Type","application/json","Authorization","Bearer "+b0,"Origin"," oracle.datasintese.com"],k,k)
 s=6
-return A.U(n.bT("POST",l,j,B.j.bX(A.a5(["cpf",c,"nome",a1,"sobrenome",a8,"imagem",".","celular",a9,"email",e,"senha",a5,"aceite_newsletter",a?1:0,"situacao",a6,"beneficio_social",b,"data_nascimento",d,"nome_mae",a2,"situacao_receita_federal",a7,"faixa_renda",a0,"admin","0"],k,t.K)),null),$async$y5)
+return A.U(n.bT("POST",l,j,B.j.bX(A.a5(["cpf",c,"nome",a1,"sobrenome",a8,"imagem",".","celular",a9,"email",e,"senha",a5,"aceite_newsletter",a?1:0,"situacao",a6,"beneficio_social",b,"data_nascimento",d,"nome_mae",a2,"situacao_receita_federal",a7,"faixa_renda",a0,"medico","null","medico_ativo","null","medico_crm","null","medico_indicado_por","null","admin","0"],k,t.K)),null),$async$y5)
 case 6:i=b2
 g.a=i
 new A.bY().c4(0,new A.aah(g,a3),new A.aai(g,a3),new A.aaj(a3),new A.aak(g,a3),new A.aal(g,a4),new A.aam(a3),i.b)
@@ -53626,7 +53626,7 @@ h=e.x
 g=h?A.h(d,B.cN,B.c,d,d,d,d,d,d,B.c8,d,d,d,d):A.h(d,d,B.c,d,d,d,d,d,d,d,d,d,d,d)
 h=h?A.bW(B.x,!0,d,A.T(!1,d,!0,A.h(d,A.l(A.a([A.bj(A.l(B.LF,B.f,B.z,B.d),d,24),B.ap,A.w("Debug",d,d,d,A.ab(B.p,16,B.E,d),d,d)],b),B.f,B.i,B.d),B.c,d,d,d,d,d,d,d,B.cS,d,d,d),d,!0,d,d,d,d,d,d,d,d,d,new A.awx(),d,d,d,d),B.c,B.m,0,d,d,d,d,d,B.aT):A.h(d,d,B.c,d,d,d,d,d,d,d,d,d,d,d)
 f=e.x?A.h(d,B.cN,B.c,d,d,d,d,d,d,B.c8,d,d,d,d):A.h(d,d,B.c,d,d,d,d,d,d,d,d,d,d,d)
-f=A.h(d,A.a4(A.a([a,a0,A.t(new A.be(B.H,d,B.J,B.A,A.a([A.e0(A.a4(A.a([a1,a2,s,r,q,p,o,n,m,l,k,j,i,g,h,f,B.d2,A.l(A.a([B.RW,A.t(A.w("v 0.0.19",d,d,d,B.Tn,d,d),1)],b),B.f,B.i,B.d),B.o2],b),B.f,B.i,B.d),d),A.bX(0,A.bW(B.x,!0,d,A.T(!1,d,!0,A.h(d,A.l(A.a([A.t(A.w("Precisa de ajuda?",d,d,d,A.ab(B.p,16,B.u,d),d,d),1)],b),B.f,B.i,B.d),B.c,d,d,B.Co,d,d,d,B.GU,B.GQ,d,d,d),d,!0,d,d,d,d,d,d,d,d,d,new A.awy(a3),d,d,d,d),B.c,B.m,0,d,d,d,d,d,B.aT),d,d,0,0,d,d)],b),d),1)],b),B.f,B.i,B.d),B.c,B.m,d,d,d,d,d,d,d,d,d,d)
+f=A.h(d,A.a4(A.a([a,a0,A.t(new A.be(B.H,d,B.J,B.A,A.a([A.e0(A.a4(A.a([a1,a2,s,r,q,p,o,n,m,l,k,j,i,g,h,f,B.d2,A.l(A.a([B.RW,A.t(A.w("v 0.0.20",d,d,d,B.Tn,d,d),1)],b),B.f,B.i,B.d),B.o2],b),B.f,B.i,B.d),d),A.bX(0,A.bW(B.x,!0,d,A.T(!1,d,!0,A.h(d,A.l(A.a([A.t(A.w("Precisa de ajuda?",d,d,d,A.ab(B.p,16,B.u,d),d,d),1)],b),B.f,B.i,B.d),B.c,d,d,B.Co,d,d,d,B.GU,B.GQ,d,d,d),d,!0,d,d,d,d,d,d,d,d,d,new A.awy(a3),d,d,d,d),B.c,B.m,0,d,d,d,d,d,B.aT),d,d,0,0,d,d)],b),d),1)],b),B.f,B.i,B.d),B.c,B.m,d,d,d,d,d,d,d,d,d,d)
 return A.cg(d,new A.be(B.H,d,B.J,B.A,A.a([f,e.at?B.cX:A.h(d,d,B.c,d,d,d,d,d,d,d,d,d,d,d)],b),d),d,d)}}
 A.awD.prototype={
 $1(a){var s=this.a
