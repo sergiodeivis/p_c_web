@@ -54542,7 +54542,7 @@ f=c.x
 e=f?A.h(b,B.cp,B.c,b,b,b,b,b,b,B.bV,b,b,b,b):A.h(b,b,B.c,b,b,b,b,b,b,b,b,b,b,b)
 f=f?A.bU(B.x,!0,b,A.T(!1,b,!0,A.h(b,A.m(A.a([A.bg(A.m(B.Lg,B.f,B.z,B.e),b,24),B.ao,A.x("Debug",b,b,b,A.ac(B.p,16,B.E,b),b,b)],a0),B.f,B.i,B.e),B.c,b,b,b,b,b,b,b,B.cr,b,b,b),b,!0,b,b,b,b,b,b,b,b,b,new A.axO(),b,b,b,b),B.c,B.m,0,b,b,b,b,b,B.aN):A.h(b,b,B.c,b,b,b,b,b,b,b,b,b,b,b)
 d=c.x?A.h(b,B.cp,B.c,b,b,b,b,b,b,B.bV,b,b,b,b):A.h(b,b,B.c,b,b,b,b,b,b,b,b,b,b,b)
-d=A.h(b,A.a5(A.a([a1,a2,A.y(new A.b9(B.G,b,B.J,B.A,A.a([A.e4(A.a5(A.a([a3,a4,s,r,q,p,o,n,m,l,k,j,i,h,g,e,f,d,B.d4,A.m(A.a([B.Rw,A.y(A.x("v 0.0.20",b,b,b,B.T0,b,b),1)],a0),B.f,B.i,B.e),B.o_],a0),B.f,B.i,B.e),b),A.bX(0,A.bU(B.x,!0,b,A.T(!1,b,!0,A.h(b,A.m(A.a([A.y(A.x("Precisa de ajuda?",b,b,b,A.ac(B.p,16,B.u,b),b,b),1)],a0),B.f,B.i,B.e),B.c,b,b,B.Ce,b,b,b,B.Gy,B.Gu,b,b,b),b,!0,b,b,b,b,b,b,b,b,b,new A.axG(a5),b,b,b,b),B.c,B.m,0,b,b,b,b,b,B.aN),b,b,0,0,b,b)],a0),b),1)],a0),B.f,B.i,B.e),B.c,B.m,b,b,b,b,b,b,b,b,b,b)
+d=A.h(b,A.a5(A.a([a1,a2,A.y(new A.b9(B.G,b,B.J,B.A,A.a([A.e4(A.a5(A.a([a3,a4,s,r,q,p,o,n,m,l,k,j,i,h,g,e,f,d,B.d4,A.m(A.a([B.Rw,A.y(A.x("v 0.0.21",b,b,b,B.T0,b,b),1)],a0),B.f,B.i,B.e),B.o_],a0),B.f,B.i,B.e),b),A.bX(0,A.bU(B.x,!0,b,A.T(!1,b,!0,A.h(b,A.m(A.a([A.y(A.x("Precisa de ajuda?",b,b,b,A.ac(B.p,16,B.u,b),b,b),1)],a0),B.f,B.i,B.e),B.c,b,b,B.Ce,b,b,b,B.Gy,B.Gu,b,b,b),b,!0,b,b,b,b,b,b,b,b,b,new A.axG(a5),b,b,b,b),B.c,B.m,0,b,b,b,b,b,B.aN),b,b,0,0,b,b)],a0),b),1)],a0),B.f,B.i,B.e),B.c,B.m,b,b,b,b,b,b,b,b,b,b)
 return A.ch(b,new A.b9(B.G,b,B.J,B.A,A.a([d,c.at?B.ce:A.h(b,b,B.c,b,b,b,b,b,b,b,b,b,b,b)],a0),b),b,b)}}
 A.axT.prototype={
 $1(a){var s=this.a
@@ -107204,4 +107204,3 @@ a(b.target)}for(var r=0;r<s.length;++r)s[r].addEventListener("load",onLoad,false
 var s=A.aSB
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
-//# sourceMappingURL=main.dart.js.map
