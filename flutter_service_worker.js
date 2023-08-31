@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "556c8dc105518ec497e3a246adeec5d5",
+  "assets/AssetManifest.json": "d2e125ae5c1950a66bfaa23fdd1dbccf",
 "assets/assets/icon/AddressProfileIcon.png": "f9f9004192b48949c174c588f48fafa7",
 "assets/assets/icon/BackIcon.png": "b292f226dcdd04dbe276a30fa519c119",
 "assets/assets/icon/CupomIcon.png": "91d7c75000bfbe88ffbd5fd7ffde4969",
@@ -30,12 +30,16 @@ const RESOURCES = {
 "assets/assets/images/cbd-salve-pain-management.jpg": "faea1fa780383270dc8c25833302117b",
 "assets/assets/images/cbda-cbga-out.jpg": "6fe7a114bee71c8ad75f8253069a824b",
 "assets/assets/images/cdb-menthol-lotion.jpg": "c072cce11904b3e80117683e295478d8",
+"assets/assets/images/end.png": "53067c3529ae14d680c0e7dcde82ceb2",
+"assets/assets/images/form.png": "d13c84af104a343f65e17aca97f5a2b6",
 "assets/assets/images/fruit-puch-gummies-out-1.jpg": "a3536fd28e2ec05d4c3f3a218acf245d",
 "assets/assets/images/hibiscus-berry-out.jpg": "e9cd55a099cf81127a83e12b6906ba8b",
+"assets/assets/images/ident.png": "d1aadc389de142ec3747f624d35ce142",
 "assets/assets/images/image001.jpg": "ff51f008fc29c5b5e159b48eabac5ae2",
 "assets/assets/images/img.png": "86fff493fd18e51c625ccb1d0eb0cd99",
 "assets/assets/images/img_1.png": "5e365a8f477bf1686202483aeefc25c7",
 "assets/assets/images/MAX_6385-1-min-scaled-e1630620356491.jpg": "4f36b9b29d9919ed0ca659eb0e5063af",
+"assets/assets/images/receita.png": "d1e331ea35370f67dc433a7196b9c64f",
 "assets/assets/images/strawberry-gummies-out.jpg": "cea28b2d5b184c0060fad23b4711b488",
 "assets/assets/images/tinctures-file-attrum.png": "2bd4918d6603db937203ae31682085e9",
 "assets/assets/images/Watermelon-Gummy-Label-label-mockup-1.jpg": "a6b3b84c7d8d5452e81d3be3178188c7",
@@ -69,10 +73,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fd74d7ce12d4f88a32b4651183da3aca",
-"/": "fd74d7ce12d4f88a32b4651183da3aca",
-"index.html.bak": "784498e725b90913e6ef0e115bbcca2a",
-"main.dart.js": "97347294d3bc38a9cd32ed9a52a16e85",
+"index.html": "f252087e53825ca2e9c21ce8042eb309",
+"/": "f252087e53825ca2e9c21ce8042eb309",
+"index.html.bak": "fd74d7ce12d4f88a32b4651183da3aca",
+"main.dart.js": "e02dee1dadaf53d07a87dee1ca167649",
 "manifest.json": "e640841e768177b4639d23ba8eb59f97",
 "version.json": "99eeaccf58ea55e48740054eed75bba2"
 };
