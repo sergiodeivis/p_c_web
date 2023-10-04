@@ -48816,7 +48816,7 @@ i.a=null
 q=3
 h=t.N
 s=6
-return A.T(n.bt("POST",A.br(u.U,0,null),A.a1(["Content-Type","application/json","Authorization","Bearer "+b2,"Origin"," oracle.datasintese.com"],h,h),B.j.bE(A.a1(["id_produto",a1,"nome",a6,"valor",b3,"descricao",e,"ingredientes",a3,"image","null","marca",a5,"certificado",c,"volume",b4,"ativo",B.k.k(b),"destaque",B.k.k(f),"estoque",B.k.k(a0),"referencia",b1,"altura",a,"largura",a4,"comprimento",d,"peso",b0],h,h)),null),$async$Ar)
+return A.T(n.bt("POST",A.br(u.U,0,null),A.a1(["Content-Type","application/json","Authorization","Bearer "+b2,"Origin"," oracle.datasintese.com"],h,h),B.j.bE(A.a1(["id_produto",a1,"nome",a6,"valor",b3,"descricao",e,"ingredientes",a3,"image","null","marca",a5,"certificado",c,"volume",b4,"ativo",B.k.k(b),"destaque",B.k.k(f),"estoque",B.k.k(a0),"referencia",b1,"altura",a,"largura",a4,"comprimento",d,"peso",b0,"apagar","0"],h,h)),null),$async$Ar)
 case 6:l=b6
 i.a=l
 new A.bN().bK(0,new A.acj(i),new A.ack(i,a8),new A.acl(),new A.acm(i),new A.acn(i,a9),new A.aco(a7),l.b)
@@ -55526,7 +55526,7 @@ i=f.x
 h=i?A.f(e,B.cW,B.c,e,e,e,e,e,e,B.cd,e,e,e,e):A.f(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
 i=i?A.c3(B.y,!0,e,A.H(!1,e,!0,A.f(e,A.m(A.a([A.bm(A.m(B.M2,B.f,B.x,B.d),e,24),B.ao,A.w("Debug",e,e,e,A.ag(B.p,16,B.E),e,e)],c),B.f,B.i,B.d),B.c,e,e,e,e,e,e,e,B.dl,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aAr(),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.b_):A.f(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
 g=f.x?A.f(e,B.cW,B.c,e,e,e,e,e,e,B.cd,e,e,e,e):A.f(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
-g=A.f(e,A.a4(A.a([b,a,A.y(new A.ba(B.H,e,B.K,B.A,A.a([A.e4(A.a4(A.a([a0,a1,s,r,q,p,o,n,m,l,k,j,h,i,g,B.cn,A.m(A.a([B.Si,A.y(A.w("v 0.0.32",e,e,e,B.TM,e,e),1)],c),B.f,B.i,B.d),B.oa],c),B.f,B.i,B.d),e),A.bV(0,A.c3(B.y,!0,e,A.H(!1,e,!0,A.f(e,A.m(A.a([A.y(A.w("Precisa de ajuda?",e,e,e,A.ag(B.p,16,B.u),e,e),1)],c),B.f,B.i,B.d),B.c,e,e,B.Cw,e,e,e,B.H0,B.GX,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aAs(a2),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.b_),e,e,0,0,e,e)],c),e),1)],c),B.f,B.i,B.d),B.c,B.l,e,e,e,e,e,e,e,e,e,e)
+g=A.f(e,A.a4(A.a([b,a,A.y(new A.ba(B.H,e,B.K,B.A,A.a([A.e4(A.a4(A.a([a0,a1,s,r,q,p,o,n,m,l,k,j,h,i,g,B.cn,A.m(A.a([B.Si,A.y(A.w("v 0.0.33",e,e,e,B.TM,e,e),1)],c),B.f,B.i,B.d),B.oa],c),B.f,B.i,B.d),e),A.bV(0,A.c3(B.y,!0,e,A.H(!1,e,!0,A.f(e,A.m(A.a([A.y(A.w("Precisa de ajuda?",e,e,e,A.ag(B.p,16,B.u),e,e),1)],c),B.f,B.i,B.d),B.c,e,e,B.Cw,e,e,e,B.H0,B.GX,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aAs(a2),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.b_),e,e,0,0,e,e)],c),e),1)],c),B.f,B.i,B.d),B.c,B.l,e,e,e,e,e,e,e,e,e,e)
 return A.cr(e,new A.ba(B.H,e,B.K,B.A,A.a([g,f.as?B.c_:A.f(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)],c),e),e,e)}}
 A.aAw.prototype={
 $1(a){var s=this.a
