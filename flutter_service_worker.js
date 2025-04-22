@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "82493cc060a65ab9ed321efad8ad185d",
-"assets/AssetManifest.bin.json": "c4f8b2ea7fa310677807ece3a1702429",
-"assets/AssetManifest.json": "a4ef5608913126bcc95ee029bc3af7d5",
+const RESOURCES = {"assets/AssetManifest.bin": "44804248593b6042c8bb6c3383d8551b",
+"assets/AssetManifest.bin.json": "2e2e69f2608264bb59749b716af0dbd7",
+"assets/AssetManifest.json": "78648ebcaf881fec3b39d2f5562c3f3c",
 "assets/assets/icon/AddressProfileIcon.png": "f9f9004192b48949c174c588f48fafa7",
 "assets/assets/icon/BackIcon.png": "b292f226dcdd04dbe276a30fa519c119",
 "assets/assets/icon/CupomIcon.png": "91d7c75000bfbe88ffbd5fd7ffde4969",
@@ -42,6 +42,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "82493cc060a65ab9ed321efad8ad185d
 "assets/assets/images/image001.jpg": "ff51f008fc29c5b5e159b48eabac5ae2",
 "assets/assets/images/img.png": "86fff493fd18e51c625ccb1d0eb0cd99",
 "assets/assets/images/img_1.png": "5e365a8f477bf1686202483aeefc25c7",
+"assets/assets/images/maisverde.jpeg": "33d673273c080aef45f89347322eb150",
 "assets/assets/images/MAX_6385-1-min-scaled-e1630620356491.jpg": "4f36b9b29d9919ed0ca659eb0e5063af",
 "assets/assets/images/receita.png": "d1e331ea35370f67dc433a7196b9c64f",
 "assets/assets/images/strawberry-gummies-out.jpg": "cea28b2d5b184c0060fad23b4711b488",
@@ -94,17 +95,17 @@ const RESOURCES = {"assets/AssetManifest.bin": "82493cc060a65ab9ed321efad8ad185d
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "7eeb6ba765f95748074424cfb70b3995",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "ae4da1847fdcd9383a150eaa2bde833f",
+"flutter_bootstrap.js": "107b54fc2d51d21dab2d242cf0164d66",
 "icons/2-512.png": "ab5721a56767d226683a3f91cb5ac271",
 "icons/2.png": "aaff681acfc2bd167f3b5163b5c9006c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3e535929400925ce1c3fa52b58021b7c",
-"/": "3e535929400925ce1c3fa52b58021b7c",
-"index.html.bak": "f98d71ea9e4ca8fa9514776264845aac",
-"main.dart.js": "072597d344f8c50775130fa72ee9e0e7",
+"index.html": "852d1a56c48a8475b96f76c56fe4df2e",
+"/": "852d1a56c48a8475b96f76c56fe4df2e",
+"index.html.bak": "3e535929400925ce1c3fa52b58021b7c",
+"main.dart.js": "0ee45c401681158c96a8c33aaebffa13",
 "manifest.json": "b34a2743e7cfb629c5bd05db8a1063a9",
 "version.json": "99eeaccf58ea55e48740054eed75bba2"};
 // The application shell files that are downloaded before a service worker can
